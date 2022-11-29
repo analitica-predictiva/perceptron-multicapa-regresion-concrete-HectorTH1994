@@ -52,11 +52,11 @@ def pregunta_02():
     ) = train_test_split(  
         x,  
         y,  
-        test_size=0.75,  
-        random_state=12345,  
+        test_size=0.25,  
+        random_state=12453,  
     )  
 
-    # Retorne `X_train`, `X_test`, `y_train` y `y_test`
+
     return x_train, x_test, y_train, y_test
 
 
