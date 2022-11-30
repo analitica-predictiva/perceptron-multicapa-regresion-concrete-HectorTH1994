@@ -160,9 +160,11 @@ def pregunta_05():
         y_train_pred,  
     )
     mse_test = mean_squared_error(  
-        y_train,  
+        y_test,  
         y_test_pred,  
     )
 
     # Retorne el mse de entrenamiento y prueba
     return mse_train, mse_test
+
+print(pregunta_05())
