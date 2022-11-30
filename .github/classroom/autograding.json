@@ -7,7 +7,7 @@
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 1,
+      "timeout": 5,
       "points": 1
     },
     {
@@ -17,7 +17,7 @@
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 1,
+      "timeout": 5,
       "points": 1
     },
     {
@@ -27,7 +27,7 @@
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 1,
+      "timeout": 5,
       "points": 1
     },
     {
@@ -37,7 +37,7 @@
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 1,
+      "timeout": 5,
       "points": 1
     },
     {
@@ -47,7 +47,7 @@
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 15,
+      "timeout": 20,
       "points": 1
     }
   ]
